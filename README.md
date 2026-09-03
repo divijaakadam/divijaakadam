@@ -58,7 +58,6 @@ Building, learning and turning ideas into code.
 
 🗄️ **Database**
 
-🧮 **Basic Mathematics**
 
 </td>
 </tr>
