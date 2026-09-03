@@ -42,7 +42,7 @@ the intersection of software development and artificial intelligence.
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](YOUR_LINKEDIN_LINK)
+💼 [LinkedIn](www.linkedin.com/in/divija-kadam)
 
 ---
 
