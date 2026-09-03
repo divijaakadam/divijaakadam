@@ -3,47 +3,81 @@
 ### Aspiring Software Developer | AI & Problem Solving
 
 I'm passionate about building practical solutions through code and exploring
-the intersection of software development and artificial intelligence.
+the world of Artificial Intelligence and Software Development.
 
-- 💻 Programming in Python, C++ & Java
+- 💻 Python • C • C++ • Java
 - 🤖 Exploring AI & Machine Learning
-- 🧠 Strengthening Data Structures & Problem Solving
-- 🚀 Learning by building real-world projects
+- 🧠 Interested in Data Structures & Problem Solving
+- 🗄️ Learning DBMS & SQL
+- 🚀 Building projects and learning through code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Python` `C` `C++` `Java`
+### 💻 Programming Languages
 
-### Concepts & Technologies
-`Data Structures & Algorithms` `OOP` `DBMS` `SQL` `Git` `GitHub`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Currently Exploring
-`Artificial Intelligence` `Machine Learning` `Software Development`
+### 🧩 Concepts & Technologies
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6A1B9A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-512DA8?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-3949AB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-5E35B1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📚 Knowledge
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Basic Mathematics
+- Problem Solving
+
+---
+
+## 🤖 Currently Exploring
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Better problem-solving approaches
+- Building real-world applications
 
 ---
 
 ## 🚀 Featured Projects
 
-> Projects coming soon — currently building and improving my development portfolio.
+| Project | Description | Technology |
+|--------|-------------|------------|
+| 🔨 Coming Soon | Currently working on projects to build my portfolio | Python |
+| 🔨 Coming Soon | More projects in development | C++ / Java |
 
 ---
 
-## 🎯 Current Focus
+## 🎯 My Goals
 
-- Building meaningful software projects
-- Improving problem-solving & DSA skills
-- Exploring AI and Machine Learning
-- Writing cleaner and more efficient code
-
----
-
-## 📫 Let's Connect
-
-💼 [LinkedIn](www.linkedin.com/in/divija-kadam)
+- Build meaningful real-world projects
+- Strengthen my DSA and programming skills
+- Explore AI & Machine Learning
+- Become a better software developer
+- Continuously learn and improve
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat. 🚀
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divija%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divija-kadam/)
+
+---
+
+### 💡 Learn. Build. Improve. Repeat. 🚀
+
+Thanks for visiting my profile! 😊
