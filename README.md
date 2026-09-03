@@ -1,65 +1,93 @@
+<div align="center">
+
 # Hi, I'm Divija 👋
 
 ### Aspiring Software Developer | AI & Problem Solving
 
-💻 Python • C • C++ • Java  
-🤖 Exploring AI & Machine Learning  
-🧠 Data Structures & Algorithms  
-🗄️ DBMS • SQL • Operating Systems
+Building, learning, and turning ideas into code.  
+Currently exploring **Artificial Intelligence, Software Development & Problem Solving**.
+
+<br>
+
+💡 Problem Solver &nbsp; • &nbsp; 📚 Lifelong Learner &nbsp; • &nbsp; 🚀 Tech Enthusiast
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- C
-- C++
-- Java
+### 💻 Languages
 
-**Core Knowledge**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS & SQL
-- Operating Systems
-- Basic Mathematics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-**Tools**
-- Git
-- GitHub
+### 🧩 Core Knowledge
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-512DA8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-3949AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-5E35B1?style=for-the-badge" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🤖 Currently Exploring
 
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-- Problem Solving
+| Area | Focus |
+|------|-------|
+| 🧠 Artificial Intelligence | Understanding AI concepts & applications |
+| 🤖 Machine Learning | Exploring ML fundamentals |
+| 💻 Software Development | Building practical applications |
+| 🧩 Problem Solving | Improving logic, DSA & coding skills |
 
 ---
 
 ## 🚀 Projects
 
-I'm currently building projects to strengthen my development skills.
+I'm currently building projects to strengthen my development skills and gain hands-on experience.
 
-More projects coming soon...
+> **More projects coming soon...** 🚀
 
 ---
 
 ## 🎯 Goals
 
-- Build real-world projects
-- Improve DSA & problem-solving
-- Explore AI/ML
-- Become a strong software developer
+- [ ] Build meaningful real-world projects
+- [ ] Strengthen DSA & problem-solving skills
+- [ ] Explore AI & Machine Learning
+- [ ] Improve software development skills
+- [ ] Continuously learn and grow
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/divija-kadam/)
+<p>
+  <a href="https://www.linkedin.com/in/divija-kadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Divija%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### Learn • Build • Improve • Repeat 🚀
+<div align="center">
+
+### ✨ Learn • Build • Improve • Repeat ✨
+
+**Thanks for visiting my profile!** 😊
+
+</div>
