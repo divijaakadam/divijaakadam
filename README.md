@@ -38,7 +38,7 @@ the world of Artificial Intelligence and Software Development.
 - Object-Oriented Programming
 - Database Management Systems
 - Operating Systems
-- Basic Mathematics
+- Basic Mobile Application Development
 - Problem Solving
 
 ---
