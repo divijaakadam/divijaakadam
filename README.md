@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Divija 👋
+# Hi, I'm Divija 👋!
 
 ### Aspiring Software Developer | AI & Problem Solving
 
